@@ -26,7 +26,7 @@ Follow these steps to set up the project locally:
     ```
 2. **Install the dependencies**:
     ```bash
-   pip install transformers torch streamlit 
+   pip install transformers torch streamlit plotly wordcloud
     ```
 3. **Run the Streamlit application**:
     ```bash
