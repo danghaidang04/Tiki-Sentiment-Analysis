@@ -30,7 +30,7 @@ Follow these steps to set up the project locally:
     ```
 3. **Run the Streamlit application**:
     ```bash
-   streamlit run app.py
+   streamlit run alternative_app.py
     ```
 4. **Access the web application**:
     Open the provided URL in your web browser to access the Streamlit application.
